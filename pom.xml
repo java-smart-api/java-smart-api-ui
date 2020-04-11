@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.citrsw</groupId>
     <artifactId>java-smart-api-ui</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RELEASE</version>
     <name>java-smart-api-ui</name>
     <description>Demo project for Spring Boot</description>
 
